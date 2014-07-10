@@ -1,0 +1,3 @@
+name: 3PlayingGames-t3
+main: com.tenjava.entries.p3PlayingGames.t3.TenJava
+version: '${project.version}'
