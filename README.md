@@ -1,6 +1,9 @@
 3PlayingGames's ten.java submission
 ==============================
 
+[![potato](http://oregonrural.org/wp-content/uploads/2010/10/Potato.jpeg)](https://nickparksdev.com)
+[![potato](http://www.permaculture.co.uk/sites/default/files/images/greek-potato.standard%20460x345.gif)](https://nickparksdev.com)
+
 [![ten.java](https://cdn.mediacru.sh/hu4CJqRD7AiB.svg)](https://tenjava.com/)
 
 This is a submission for the 2014 ten.java contest.
