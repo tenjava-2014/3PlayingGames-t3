@@ -1,8 +1,8 @@
 3PlayingGames's ten.java submission
 ==============================
-[![potato](http://img2.wikia.nocookie.net/__cb20121106233947/disney/images/c/ce/Potato_23.gif)](https://nickparksdev.com)
-[![potato](http://oregonrural.org/wp-content/uploads/2010/10/Potato.jpeg)](https://nickparksdev.com)
-[![potato](http://www.permaculture.co.uk/sites/default/files/images/greek-potato.standard%20460x345.gif)](https://nickparksdev.com)
+[![potato](http://img2.wikia.nocookie.net/__cb20121106233947/disney/images/c/ce/Potato_23.gif)](http://nickparksdev.com)
+[![potato](http://oregonrural.org/wp-content/uploads/2010/10/Potato.jpeg)](http://nickparksdev.com)
+[![potato](http://www.permaculture.co.uk/sites/default/files/images/greek-potato.standard%20460x345.gif)](http://nickparksdev.com)
 
 [![ten.java](https://cdn.mediacru.sh/hu4CJqRD7AiB.svg)](https://tenjava.com/)
 
