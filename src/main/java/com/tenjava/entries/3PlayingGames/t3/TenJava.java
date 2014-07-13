@@ -2,6 +2,7 @@ package com.tenjava.entries.p3PlayingGames.t3;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.command.ConsoleCommandSender;
+import org.bukkit.ChatColor;
 
 public class TenJava extends JavaPlugin {
 
